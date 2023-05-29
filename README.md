@@ -1,1 +1,1 @@
-# Solutions to questions from the [LeetCode]([url](https://leetcode.com/))✅
+# Solutions to questions from the [LeetCode](https://leetcode.com/)✅
